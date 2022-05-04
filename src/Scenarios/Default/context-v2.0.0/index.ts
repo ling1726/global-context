@@ -1,4 +1,4 @@
-import { createContext } from '../global-context';
+import { createContext } from '../../../global-context';
 
 export interface ProviderContextValueV2 {
   bar: string;
